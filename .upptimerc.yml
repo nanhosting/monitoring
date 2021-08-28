@@ -3,26 +3,89 @@ owner: nanhosting # Your GitHub organization or username, where this repository 
 repo: monitoring # The name of this repository
 
 sites:
-  - name: nanhosting
-    url: https://nanhosting.ch
-  - name: nanosite
+  - name: 96gfn.ch
+    url: https://96gfn.ch
+  - name: a-projectstudio.ch
+    url: https://a-projectstudio.ch
+  - name: alphalab.ch
+    url: https://alphalab.ch    
+  - name: assafi.org
+    url: https://assafi.org
+  - name: auxdelicesdelagare.ca
+    url: https://auxdelicesdelagare.ca
+  - name: ballissima.ch
+    url: https://ballissima.ch
+  - name: beachtown.ch
+    url: https://beachtown.ch
+  - name: bulle-detente.ch
+    url: https://bulle-detente.ch
+  - name: but-first-relax.ch
+    url: https://but-first-relax.ch    
+  - name: crossfitbog.ch
+    url: https://crossfitbog.ch
+  - name: diotimagrossert.com
+    url: https://diotimagrossert.com
+  - name: do.min.icu
+    url: https://do.min.icu    
+  - name: dominiqueantenen.ch
+    url: https://dominiqueantenen.ch
+  - name: expandmarketing.ch
+    url: https://expandmarketing.ch   
+  - name: faki-ongd.ch
+    url: https://faki-ongd.ch   
+  - name: i8.gg
+    url: https://i8.gg
+  - name: if8.io
+    url: https://if8.io   
+  - name: impro-impact.ch
+    url: https://impro-impact.ch
+  - name: improcastel.ch
+    url: https://improcastel.ch      
+  - name: infinit8.io
+    url: https://infinit8.io    
+  - name: joaouchoa.ch
+    url: https://joaouchoa.ch      
+  - name: judoclubaubonne.ch
+    url: https://judoclubaubonne.ch      
+  - name: judoclubcossonay.ch
+    url: https://judoclubcossonay.ch
+  - name: judoclubstadelausanne.ch
+    url: https://judoclubstadelausanne.ch         
+  - name: julian-bader.ch
+    url: https://julian-bader.ch       
+  - name: kaje.ch
+    url: https://kaje.ch   
+  - name: learnitevent.ch
+    url: https://learnitevent.ch
+  - name: maccatattoo.ch
+    url: https://maccatattoo.ch   
+  - name: marbohren.com
+    url: https://marbohren.com   
+  - name: mcprint.ch
+    url: https://mcprint.ch   
+  - name: mg24.ch
+    url: https://mg24.ch       
+  - name: nadiadedonno.ch
+    url: https://nadiadedonno.ch
+  - name: nanhosting.ch
+    url: https://nanhosting.ch         
+  - name: nanosite.ch
     url: https://nanosite.ch
-  - name: snapwin
-    url: https://snapwin.it
-  - name: reboard
-    url: https://reboard.io
-  - name: protokoll-studio.com
-    url: https://protokoll-studio.com
-  - name: maccatattoo
-    url: https://maccatattoo.ch
-  - name: psyyoung
-    url: https://psyyoung.ch
-  - name: travelerandco
-    url: https://travelerandco.ch
-  - name: mg24
-    url: https://mg24.ch
-  - name: IF8
-    url: https://if8.io
+  - name: nicowind.ch
+    url: https://nicowind.ch         
+  - name: ninn.ch
+    url: https://ninn.ch
+  - name: osteoneuchatel.ch
+    url: https://osteoneuchatel.ch      
+  - name: osteosolothurn.ch
+    url: https://osteosolothurn.ch  
+  - name: osteosolothurn.ch
+    url: https://osteosolothurn.ch      
+  - name: osteosolothurn.ch
+    url: https://osteosolothurn.ch      
+  - name: osteosolothurn.ch
+    url: https://osteosolothurn.ch          
+        
 
 
 status-website:
