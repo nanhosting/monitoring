@@ -88,9 +88,7 @@ sites:
   - name: reboard.io
     url: https://reboard.io
   - name: redteamjudo.ch
-    url: https://redteamjudo.ch    
-  - name: roadtrip2k18.ch
-    url: https://roadtrip2k18.ch  
+    url: https://redteamjudo.ch     
   - name: snapwin.it
     url: https://snapwin.it
   - name: somewhere.photo
