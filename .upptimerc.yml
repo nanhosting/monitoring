@@ -3,25 +3,32 @@ owner: nanhosting # Your GitHub organization or username, where this repository 
 repo: monitoring # The name of this repository
 
 sites:
-  - name: nanhosting.ch
+  - name: nanhosting
     url: https://nanhosting.ch
-  - name: nanosite.ch
+  - name: nanosite
     url: https://nanosite.ch
-  - name: maccatattoo.ch
-    url: https://maccatattoo.ch
-  - name: protokoll-studio.com
-    url: https://protokoll-studio.com
   - name: snapwin
     url: https://snapwin.it
   - name: reboard.io
     url: https://reboard.io
+  - name: protokoll-studio.com
+    url: https://protokoll-studio.com
+  - name: maccatattoo.ch
+    url: https://maccatattoo.ch
+  - name: psyyoung.ch
+    url: https://psyyoung.ch
+  - name: travelerandco
+    url: https://travelerando.ch
+  - name: broken
+    https://omg.nanhosting.ch
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nanhosting.ch
+  theme: dark
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/89687463?s=200&v=4
   name: nanhosting
   introTitle: "**nanhosting** is a nano hosting provider for small websites."
   introMessage: This is our status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime).
