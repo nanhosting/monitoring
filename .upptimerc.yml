@@ -11,6 +11,8 @@ sites:
     url: https://maccatattoo.ch
   - name: protokoll-studio.com
     url: https://protokoll-studio.com
+  - name: do.min.icu
+    url: https://do.min.icu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
