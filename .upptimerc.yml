@@ -59,10 +59,10 @@ sites:
     url: https://learnitevent.ch
   - name: maccatattoo.ch
     url: https://maccatattoo.ch   
-  - name: marbohren.com
-    url: https://marbohren.com   
-  - name: mcprint.ch
-    url: https://mcprint.ch   
+  - name: marcbohren.com
+    url: https://marcbohren.com   
+  - name: mcsprint.ch
+    url: https://mcsprint.ch   
   - name: mg24.ch
     url: https://mg24.ch       
   - name: nadiadedonno.ch
@@ -79,14 +79,36 @@ sites:
     url: https://osteoneuchatel.ch      
   - name: osteosolothurn.ch
     url: https://osteosolothurn.ch  
-  - name: osteosolothurn.ch
-    url: https://osteosolothurn.ch      
-  - name: osteosolothurn.ch
-    url: https://osteosolothurn.ch      
-  - name: osteosolothurn.ch
-    url: https://osteosolothurn.ch          
-        
-
+  - name: pixpakal.com
+    url: https://pixpakal.com   
+  - name: protokoll-studio.com
+    url: https://protokoll-studio.com  
+  - name: quentinantenen.ch
+    url: https://quentinantenen.ch
+  - name: reboard.io
+    url: https://reboard.io
+  - name: redteamjudo.ch
+    url: https://redteamjudo.ch    
+  - name: roadtrip2k18.ch
+    url: https://roadtrip2k18.ch  
+  - name: snapwin.it
+    url: https://snapwin.it
+  - name: somewhere.photo
+    url: https://somewhere.photo      
+  - name: sunset-massages.ch
+    url: https://sunset-massages.ch      
+  - name: travelerandco.ch
+    url: https://travelerandco.ch      
+  - name: twentys.ch
+    url: https://twentys.ch    
+  - name: valerio-personeni.com
+    url: https://valerio-personeni.com      
+  - name: vngl.ooo
+    url: https://vngl.ooo    
+  - name: watermarkme.io
+    url: https://watermarkme.io      
+  - name: yoma-design.ch
+    url: https://yoma-design.ch   
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
