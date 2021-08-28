@@ -9,16 +9,20 @@ sites:
     url: https://nanosite.ch
   - name: snapwin
     url: https://snapwin.it
-  - name: reboard.io
+  - name: reboard
     url: https://reboard.io
   - name: protokoll-studio.com
     url: https://protokoll-studio.com
-  - name: maccatattoo.ch
+  - name: maccatattoo
     url: https://maccatattoo.ch
-  - name: psyyoung.ch
+  - name: psyyoung
     url: https://psyyoung.ch
   - name: travelerandco
     url: https://travelerandco.ch
+  - name: mg24
+    url: https://mg24.ch
+  - name: IF8
+    url: https://if8.io
 
 
 status-website:
