@@ -19,8 +19,6 @@ sites:
     url: https://psyyoung.ch
   - name: travelerandco
     url: https://travelerandco.ch
-  - name: broken
-    url: https://omg.nanhosting.ch
 
 
 status-website:
