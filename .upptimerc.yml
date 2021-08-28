@@ -18,9 +18,8 @@ sites:
   - name: psyyoung.ch
     url: https://psyyoung.ch
   - name: travelerandco
-    url: https://travelerando.ch
-  - name: broken
-    url: https://omg.nanhosting.ch
+    url: https://travelerandco.ch
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
