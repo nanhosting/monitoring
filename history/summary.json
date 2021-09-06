@@ -274,18 +274,20 @@
     "url": "https://i8.gg",
     "icon": "https://favicons.githubusercontent.com/i8.gg",
     "slug": "i8-gg",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 574,
     "timeDay": 530,
     "timeWeek": 575,
     "timeMonth": 574,
     "timeYear": 574,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-06": 1
+    }
   },
   {
     "name": "if8.io",
@@ -736,7 +738,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-06": 49,
+      "2021-09-06": 1044,
       "2021-09-05": 1440,
       "2021-09-04": 1440,
       "2021-09-03": 1440,
