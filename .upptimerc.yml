@@ -32,9 +32,7 @@ sites:
   - name: expandmarketing.ch
     url: https://expandmarketing.ch   
   - name: faki-ongd.ch
-    url: https://faki-ongd.ch   
-  - name: i8.gg
-    url: https://i8.gg
+    url: https://faki-ongd.ch
   - name: if8.io
     url: https://if8.io   
   - name: impro-impact.ch
@@ -83,8 +81,6 @@ sites:
     url: https://pixpakal.com   
   - name: protokoll-studio.com
     url: https://protokoll-studio.com  
-  - name: quentinantenen.ch
-    url: https://quentinantenen.ch
   - name: reboard.io
     url: https://reboard.io
   - name: redteamjudo.ch
