@@ -688,19 +688,19 @@
     "url": "https://protokoll-studio.com",
     "icon": "https://favicons.githubusercontent.com/protokoll-studio.com",
     "slug": "protokoll-studio-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 991,
-    "timeDay": 737,
-    "timeWeek": 736,
-    "timeMonth": 991,
-    "timeYear": 991,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 984,
+    "timeDay": 713,
+    "timeWeek": 728,
+    "timeMonth": 984,
+    "timeYear": 984,
     "dailyMinutesDown": {
-      "2021-09-25": 1
+      "2021-09-25": 31
     }
   },
   {
