@@ -7,8 +7,6 @@ sites:
     url: https://96gfn.ch
   - name: a-projectstudio.ch
     url: https://a-projectstudio.ch
-  - name: alphalab.ch
-    url: https://alphalab.ch    
   - name: assafi.org
     url: https://assafi.org
   - name: auxdelicesdelagare.ca
@@ -21,8 +19,6 @@ sites:
     url: https://bulle-detente.ch
   - name: but-first-relax.ch
     url: https://but-first-relax.ch    
-  - name: crossfitbog.ch
-    url: https://crossfitbog.ch
   - name: diotimagrossert.com
     url: https://diotimagrossert.com
   - name: do.min.icu
@@ -33,8 +29,8 @@ sites:
     url: https://expandmarketing.ch   
   - name: faki-ongd.ch
     url: https://faki-ongd.ch
-  - name: if8.io
-    url: https://if8.io   
+  - name: hoomau.ch
+    url: https://hoomau.ch
   - name: impro-impact.ch
     url: https://impro-impact.ch
   - name: improcastel.ch
@@ -62,7 +58,9 @@ sites:
   - name: mcsprint.ch
     url: https://mcsprint.ch   
   - name: mg24.ch
-    url: https://mg24.ch       
+    url: https://mg24.ch
+  - name: morphotonix.com
+    url: https://morphotonix.com
   - name: nadiadedonno.ch
     url: https://nadiadedonno.ch
   - name: nanhosting.ch
@@ -82,9 +80,7 @@ sites:
   - name: protokoll-studio.com
     url: https://protokoll-studio.com  
   - name: reboard.io
-    url: https://reboard.io
-  - name: redteamjudo.ch
-    url: https://redteamjudo.ch     
+    url: https://reboard.io  
   - name: snapwin.it
     url: https://snapwin.it
   - name: somewhere.photo
