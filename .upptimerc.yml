@@ -35,8 +35,8 @@ sites:
     url: https://impro-impact.ch
   - name: improcastel.ch
     url: https://improcastel.ch      
-  - name: infinit8.io
-    url: https://infinit8.io    
+  - name: if8.io
+    url: https://if8.io 
   - name: joaouchoa.ch
     url: https://joaouchoa.ch      
   - name: judoclubaubonne.ch
@@ -78,7 +78,9 @@ sites:
   - name: pixpakal.com
     url: https://pixpakal.com   
   - name: protokoll-studio.com
-    url: https://protokoll-studio.com  
+    url: https://protokoll-studio.com
+  - name: raitone.com
+    url: https://raitone.com
   - name: reboard.io
     url: https://reboard.io  
   - name: snapwin.it
