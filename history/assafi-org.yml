@@ -1,7 +1,7 @@
 url: https://assafi.org
-status: up
-code: 200
-responseTime: 861
-lastUpdated: 2022-09-06T23:26:07.747Z
+status: down
+code: 500
+responseTime: 823
+lastUpdated: 2022-09-07T08:34:28.652Z
 startTime: Sat Aug 28 2021 13:47:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
