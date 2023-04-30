@@ -23,14 +23,10 @@ sites:
     url: https://diotimagrossert.com
   - name: do.min.icu
     url: https://do.min.icu    
-  - name: dominiqueantenen.ch
-    url: https://dominiqueantenen.ch
   - name: expandmarketing.ch
     url: https://expandmarketing.ch   
   - name: faki-ongd.ch
     url: https://faki-ongd.ch
-  - name: hoomau.ch
-    url: https://hoomau.ch
   - name: impro-impact.ch
     url: https://impro-impact.ch
   - name: improcastel.ch
@@ -83,8 +79,6 @@ sites:
     url: https://raitone.com
   - name: reboard.io
     url: https://reboard.io  
-  - name: snapwin.it
-    url: https://snapwin.it
   - name: somewhere.photo
     url: https://somewhere.photo      
   - name: sunset-massages.ch
