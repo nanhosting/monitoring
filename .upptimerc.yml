@@ -7,32 +7,50 @@ sites:
     url: https://96gfn.ch
   - name: a-projectstudio.ch
     url: https://a-projectstudio.ch
-  - name: assafi.org
-    url: https://assafi.org
+  - name: aaaaa.ooo
+    url: https://aaaaa.ooo
+  - name: addrespect.ch
+    url: https://addrespect.ch
+  - name: archaccompagnement.ch
+    url: https://archaccompagnement.ch
   - name: auxdelicesdelagare.ca
     url: https://auxdelicesdelagare.ca
+  - name: asfaddi.ch
+    url: https://asfaddi.ch   
   - name: ballissima.ch
     url: https://ballissima.ch
   - name: beachtown.ch
-    url: https://beachtown.ch
+    url: https://beachtown.ch 
+  - name: bookette.ch
+    url: https://bookette.ch    
   - name: bulle-detente.ch
     url: https://bulle-detente.ch
   - name: but-first-relax.ch
     url: https://but-first-relax.ch    
+  - name: dariokurorusso.ch
+    url: https://dariokurorusso.ch  
+  - name: deterre.ch
+    url: https://deterre.ch      
   - name: diotimagrossert.com
     url: https://diotimagrossert.com
   - name: do.min.icu
-    url: https://do.min.icu    
+    url: https://do.min.icu 
+  - name: dominiqueantenen.ch
+    url: https://dominiqueantenen.ch       
   - name: expandmarketing.ch
     url: https://expandmarketing.ch   
-  - name: faki-ongd.ch
-    url: https://faki-ongd.ch
+  - name: fannygeiser.com
+    url: https://fannygeiser.com    
+  - name: feuillesetvie.ch
+    url: https://feuillesetvie.ch    
+  - name: fsgfeminine-reconvilier.ch     
+    url: https://fsgfeminine-reconvilier.ch  
+  - name: g-fid.ch     
+    url: https://g-fid.ch       
   - name: impro-impact.ch
     url: https://impro-impact.ch
   - name: improcastel.ch
     url: https://improcastel.ch      
-  - name: if8.io
-    url: https://if8.io 
   - name: joaouchoa.ch
     url: https://joaouchoa.ch      
   - name: judoclubaubonne.ch
@@ -44,47 +62,79 @@ sites:
   - name: julian-bader.ch
     url: https://julian-bader.ch       
   - name: kaje.ch
-    url: https://kaje.ch   
+    url: https://kaje.ch  
+  - name: kin-ball-bienne.ch     
+    url: https://kin-ball-bienne.ch     
+  - name: koye.shop
+    url: https://koye.shop    
   - name: learnitevent.ch
     url: https://learnitevent.ch
-  - name: maccatattoo.ch
-    url: https://maccatattoo.ch   
   - name: marcbohren.com
     url: https://marcbohren.com   
   - name: mcsprint.ch
     url: https://mcsprint.ch   
   - name: mg24.ch
     url: https://mg24.ch
+  - name: mute-radio.ch
+    url: https://mute-radio.ch    
+  - name: myrielleboillat.ch
+    url: https://myrielleboillat.ch        
   - name: morphotonix.com
     url: https://morphotonix.com
   - name: nadiadedonno.ch
     url: https://nadiadedonno.ch
   - name: nanhosting.ch
     url: https://nanhosting.ch         
-  - name: nanosite.ch
-    url: https://nanosite.ch
   - name: nicowind.ch
     url: https://nicowind.ch         
   - name: ninn.ch
     url: https://ninn.ch
+  - name: oddaya.ch
+    url: https://oddaya.ch   
+  - name: osteo-jura.ch
+    url: https://osteo-jura.ch      
   - name: osteoneuchatel.ch
     url: https://osteoneuchatel.ch      
   - name: osteosolothurn.ch
     url: https://osteosolothurn.ch  
   - name: pixpakal.com
     url: https://pixpakal.com   
+  - name: polaris-psy.ch
+    url: https://polaris-psy.ch       
   - name: protokoll-studio.com
     url: https://protokoll-studio.com
+  - name: quatre-mains.ch
+    url: https://quatre-mains.ch       
   - name: raitone.com
     url: https://raitone.com
   - name: reboard.io
     url: https://reboard.io  
+  - name: ristoranteitalia-biel.ch 
+    url: https://ristoranteitalia-biel.ch   
+  - name: road-crew.ch 
+    url: https://road-crew.ch     
+  - name: rockette.space 
+    url: https://rockette.space         
+  - name: rosafinta.com 
+    url: https://rosafinta.com       
+  - name: sollberger-ag.ch
+    url: https://sollberger-ag.ch    
   - name: somewhere.photo
-    url: https://somewhere.photo      
+    url: https://somewhere.photo     
+  - name: soutienparental.ch
+    url: https://soutienparental.ch        
+  - name: spoort.ch
+    url: https://spoort.ch    
+  - name: stitchbienne.ch
+    url: https://stitchbienne.ch       
   - name: sunset-massages.ch
     url: https://sunset-massages.ch      
   - name: travelerandco.ch
-    url: https://travelerandco.ch        
+    url: https://travelerandco.ch  
+  - name: twentys.ch
+    url: https://twentys.ch     
+  - name: valaela.com
+    url: https://valaela.com      
   - name: valerio-personeni.com
     url: https://valerio-personeni.com      
   - name: vngl.ooo
