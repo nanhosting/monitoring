@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/96gfn.ch.ico",
     "slug": "96gfn-ch",
     "status": "up",
-    "uptime": "96.75%",
+    "uptime": "96.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.69%",
-    "uptimeYear": "93.51%",
+    "uptimeMonth": "22.48%",
+    "uptimeYear": "93.49%",
     "time": 2164,
     "timeDay": 2296,
     "timeWeek": 2666,
     "timeMonth": 2288,
-    "timeYear": 2164,
+    "timeYear": 2160,
     "dailyMinutesDown": {
-      "2023-09-28": 1404,
+      "2023-09-29": 54,
+      "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
@@ -55,15 +56,16 @@
     "uptime": "89.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.69%",
-    "uptimeYear": "79.37%",
+    "uptimeMonth": "22.48%",
+    "uptimeYear": "79.35%",
     "time": 894,
     "timeDay": 765,
     "timeWeek": 846,
     "timeMonth": 900,
-    "timeYear": 909,
+    "timeYear": 908,
     "dailyMinutesDown": {
-      "2023-09-28": 1404,
+      "2023-09-29": 54,
+      "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
@@ -148,18 +150,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aaaaa.ooo.ico",
     "slug": "aaaaa-ooo",
     "status": "up",
-    "uptime": "74.81%",
+    "uptime": "74.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.69%",
-    "uptimeYear": "74.81%",
+    "uptimeMonth": "22.48%",
+    "uptimeYear": "74.76%",
     "time": 933,
     "timeDay": 585,
     "timeWeek": 899,
     "timeMonth": 923,
     "timeYear": 933,
     "dailyMinutesDown": {
-      "2023-09-28": 1404,
+      "2023-09-29": 54,
+      "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
@@ -237,7 +240,7 @@
     "timeDay": 1418,
     "timeWeek": 1611,
     "timeMonth": 1688,
-    "timeYear": 1792,
+    "timeYear": 1791,
     "dailyMinutesDown": {
       "2023-04-04": 587,
       "2023-04-03": 1440,
@@ -368,18 +371,16 @@
     "slug": "bookette-ch",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1287,
     "timeDay": 892,
     "timeWeek": 1150,
     "timeMonth": 1218,
     "timeYear": 1287,
-    "dailyMinutesDown": {
-      "2023-09-28": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bulle-detente.ch",
@@ -388,9 +389,9 @@
     "slug": "bulle-detente-ch",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1514,
     "timeDay": 1414,
@@ -398,7 +399,6 @@
     "timeMonth": 1525,
     "timeYear": 1561,
     "dailyMinutesDown": {
-      "2023-09-28": 4,
       "2023-01-25": 42
     }
   },
@@ -417,7 +417,7 @@
     "timeDay": 3827,
     "timeWeek": 1302,
     "timeMonth": 1325,
-    "timeYear": 1595,
+    "timeYear": 1594,
     "dailyMinutesDown": {
       "2023-03-18": 22,
       "2023-01-25": 73
@@ -474,7 +474,7 @@
     "timeDay": 659,
     "timeWeek": 1124,
     "timeMonth": 928,
-    "timeYear": 946,
+    "timeYear": 945,
     "dailyMinutesDown": {
       "2023-03-18": 168,
       "2023-03-17": 1440,
@@ -546,7 +546,7 @@
     "timeDay": 705,
     "timeWeek": 890,
     "timeMonth": 850,
-    "timeYear": 925,
+    "timeYear": 924,
     "dailyMinutesDown": {
       "2023-03-18": 21,
       "2023-01-25": 48
@@ -588,7 +588,7 @@
     "timeDay": 2272,
     "timeWeek": 2478,
     "timeMonth": 2592,
-    "timeYear": 2411,
+    "timeYear": 2413,
     "dailyMinutesDown": {
       "2023-03-18": 20,
       "2023-01-25": 71
@@ -683,7 +683,7 @@
     "timeDay": 664,
     "timeWeek": 853,
     "timeMonth": 820,
-    "timeYear": 845,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2023-09-05": 20,
       "2023-03-26": 329,
@@ -755,11 +755,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/improcastel.ch.ico",
     "slug": "improcastel-ch",
     "status": "down",
-    "uptime": "40.92%",
+    "uptime": "40.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "25.60%",
+    "uptimeYear": "25.61%",
     "time": 1060,
     "timeDay": 1016,
     "timeWeek": 859,
@@ -1036,8 +1036,7 @@
       "2022-10-03": 1440,
       "2022-10-02": 1440,
       "2022-10-01": 1440,
-      "2022-09-30": 1440,
-      "2022-09-29": 1440
+      "2022-09-30": 1440
     }
   },
   {
@@ -1055,7 +1054,7 @@
     "timeDay": 575,
     "timeWeek": 647,
     "timeMonth": 682,
-    "timeYear": 702,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2023-09-05": 33,
       "2023-01-25": 70
@@ -1067,18 +1066,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/judoclubaubonne.ch.ico",
     "slug": "judoclubaubonne-ch",
     "status": "down",
-    "uptime": "87.60%",
+    "uptime": "87.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.40%",
+    "uptimeYear": "74.39%",
     "time": 1760,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1563,
+    "timeYear": 1564,
     "dailyMinutesDown": {
-      "2023-09-28": 1404,
+      "2023-09-29": 55,
+      "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
@@ -1190,7 +1190,7 @@
     "timeDay": 672,
     "timeWeek": 1538,
     "timeMonth": 1310,
-    "timeYear": 1546,
+    "timeYear": 1547,
     "dailyMinutesDown": {
       "2023-09-05": 16,
       "2023-03-18": 169,
@@ -1263,7 +1263,7 @@
     "timeDay": 626,
     "timeWeek": 952,
     "timeMonth": 1106,
-    "timeYear": 1498,
+    "timeYear": 1499,
     "dailyMinutesDown": {
       "2023-01-25": 42
     }
@@ -1283,7 +1283,7 @@
     "timeDay": 628,
     "timeWeek": 581,
     "timeMonth": 589,
-    "timeYear": 586,
+    "timeYear": 585,
     "dailyMinutesDown": {
       "2023-01-25": 68
     }
@@ -1359,7 +1359,7 @@
     "timeDay": 1094,
     "timeWeek": 1807,
     "timeMonth": 1682,
-    "timeYear": 1744,
+    "timeYear": 1742,
     "dailyMinutesDown": {
       "2023-01-31": 1305,
       "2023-01-30": 1440,
@@ -1376,18 +1376,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/marcbohren.com.ico",
     "slug": "marcbohren-com",
     "status": "down",
-    "uptime": "99.01%",
+    "uptime": "99.00%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "5.70%",
-    "uptimeMonth": "78.30%",
-    "uptimeYear": "98.18%",
+    "uptimeWeek": "4.80%",
+    "uptimeMonth": "78.09%",
+    "uptimeYear": "98.17%",
     "time": 1826,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1962,
-    "timeYear": 1839,
+    "timeYear": 1840,
     "dailyMinutesDown": {
-      "2023-09-28": 1404,
+      "2023-09-29": 55,
+      "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
@@ -1412,7 +1413,7 @@
     "timeDay": 1902,
     "timeWeek": 1634,
     "timeMonth": 1812,
-    "timeYear": 1965,
+    "timeYear": 1967,
     "dailyMinutesDown": {
       "2023-01-25": 66
     }
@@ -1573,7 +1574,7 @@
     "timeDay": 846,
     "timeWeek": 1031,
     "timeMonth": 1083,
-    "timeYear": 1144,
+    "timeYear": 1143,
     "dailyMinutesDown": {
       "2023-03-26": 166,
       "2023-03-13": 24,
@@ -1596,7 +1597,7 @@
     "timeDay": 1571,
     "timeWeek": 1525,
     "timeMonth": 1412,
-    "timeYear": 1518,
+    "timeYear": 1515,
     "dailyMinutesDown": {
       "2023-01-25": 65
     }
@@ -1616,7 +1617,7 @@
     "timeDay": 2394,
     "timeWeek": 2723,
     "timeMonth": 2874,
-    "timeYear": 3198,
+    "timeYear": 3200,
     "dailyMinutesDown": {
       "2023-03-14": 1305,
       "2023-03-13": 1440,
@@ -1685,7 +1686,7 @@
     "timeDay": 841,
     "timeWeek": 848,
     "timeMonth": 874,
-    "timeYear": 885,
+    "timeYear": 884,
     "dailyMinutesDown": {
       "2023-01-25": 65
     }
@@ -1934,7 +1935,7 @@
     "timeDay": 615,
     "timeWeek": 562,
     "timeMonth": 583,
-    "timeYear": 574,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2023-01-25": 36
     }
@@ -1954,7 +1955,7 @@
     "timeDay": 996,
     "timeWeek": 1612,
     "timeMonth": 1351,
-    "timeYear": 1637,
+    "timeYear": 1638,
     "dailyMinutesDown": {
       "2023-01-25": 62
     }
@@ -1976,7 +1977,8 @@
     "timeMonth": 550,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2023-09-28": 1405,
+      "2023-09-29": 55,
+      "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
@@ -2087,7 +2089,7 @@
     "timeDay": 502,
     "timeWeek": 609,
     "timeMonth": 636,
-    "timeYear": 680,
+    "timeYear": 679,
     "dailyMinutesDown": {
       "2023-01-25": 35
     }
@@ -2125,7 +2127,7 @@
     "timeDay": 747,
     "timeWeek": 873,
     "timeMonth": 911,
-    "timeYear": 956,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2023-01-25": 59
     }
@@ -2145,7 +2147,7 @@
     "timeDay": 602,
     "timeWeek": 785,
     "timeMonth": 817,
-    "timeYear": 824,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2023-01-25": 59
     }
@@ -2329,7 +2331,7 @@
     "timeDay": 1162,
     "timeWeek": 1247,
     "timeMonth": 1365,
-    "timeYear": 1331,
+    "timeYear": 1330,
     "dailyMinutesDown": {
       "2023-01-25": 57
     }
@@ -2349,7 +2351,7 @@
     "timeDay": 3352,
     "timeWeek": 2999,
     "timeMonth": 3178,
-    "timeYear": 3140,
+    "timeYear": 3142,
     "dailyMinutesDown": {
       "2023-01-25": 57
     }
@@ -2405,7 +2407,7 @@
     "timeDay": 611,
     "timeWeek": 635,
     "timeMonth": 651,
-    "timeYear": 673,
+    "timeYear": 672,
     "dailyMinutesDown": {
       "2023-09-25": 22,
       "2023-01-25": 31
@@ -2426,7 +2428,7 @@
     "timeDay": 538,
     "timeWeek": 687,
     "timeMonth": 649,
-    "timeYear": 703,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2023-01-25": 56
     }
@@ -2437,18 +2439,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/watermarkme.io.ico",
     "slug": "watermarkme-io",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "59.88%",
-    "uptimeWeek": "94.27%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.83%",
+    "uptimeDay": "53.58%",
+    "uptimeWeek": "93.37%",
+    "uptimeMonth": "98.47%",
+    "uptimeYear": "99.87%",
     "time": 548,
     "timeDay": 0,
     "timeWeek": 562,
     "timeMonth": 588,
     "timeYear": 562,
     "dailyMinutesDown": {
-      "2023-09-28": 578,
+      "2023-09-29": 56,
+      "2023-09-28": 613,
       "2023-01-25": 30
     }
   },
