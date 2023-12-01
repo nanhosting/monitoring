@@ -1,7 +1,7 @@
 url: https://travelerandco.ch
-status: up
-code: 200
-responseTime: 1899
-lastUpdated: 2023-11-30T23:19:09.044Z
+status: down
+code: 503
+responseTime: 3406
+lastUpdated: 2023-12-01T16:54:48.631Z
 startTime: 2021-08-28T13:52:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
