@@ -1,7 +1,7 @@
 url: https://road-crew.ch
-status: up
-code: 200
-responseTime: 2566
-lastUpdated: 2024-08-22T23:21:09.271Z
+status: down
+code: 500
+responseTime: 986
+lastUpdated: 2024-08-23T15:30:52.102Z
 startTime: 2023-06-27T13:29:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
