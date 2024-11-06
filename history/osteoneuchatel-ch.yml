@@ -1,7 +1,7 @@
 url: https://osteoneuchatel.ch
-status: up
-code: 200
-responseTime: 3170
-lastUpdated: 2024-11-05T23:22:10.598Z
+status: down
+code: 500
+responseTime: 2426
+lastUpdated: 2024-11-06T19:38:11.832Z
 startTime: 2021-08-28T13:48:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
