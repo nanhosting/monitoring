@@ -1,7 +1,7 @@
 url: https://soutienparental.ch
-status: up
-code: 200
-responseTime: 3652
-lastUpdated: 2024-11-10T23:21:56.030Z
+status: down
+code: 502
+responseTime: 6794
+lastUpdated: 2024-11-11T19:05:22.241Z
 startTime: 2023-06-27T13:29:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
