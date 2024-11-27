@@ -1,7 +1,7 @@
 url: https://kaje.ch
-status: up
-code: 200
-responseTime: 1882
-lastUpdated: 2024-11-26T23:22:12.819Z
+status: down
+code: 503
+responseTime: 871
+lastUpdated: 2024-11-27T15:49:56.446Z
 startTime: 2021-08-28T13:47:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
