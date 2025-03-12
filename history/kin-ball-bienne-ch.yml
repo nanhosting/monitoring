@@ -1,7 +1,7 @@
 url: https://kin-ball-bienne.ch
-status: up
-code: 200
-responseTime: 3234
-lastUpdated: 2025-03-11T23:21:38.574Z
+status: down
+code: 503
+responseTime: 982
+lastUpdated: 2025-03-12T14:59:18.617Z
 startTime: 2023-06-27T13:28:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
