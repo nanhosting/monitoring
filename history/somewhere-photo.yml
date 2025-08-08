@@ -1,7 +1,7 @@
 url: https://somewhere.photo
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-08T01:27:37.871Z
+status: up
+code: 200
+responseTime: 320
+lastUpdated: 2025-08-08T03:22:21.110Z
 startTime: 2021-08-28T13:52:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
